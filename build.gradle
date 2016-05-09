@@ -42,3 +42,7 @@ dependencies {
             'org.springframework:spring-test:4.1.5.RELEASE'
     )
 }
+
+task createWrapper(type: Wrapper) {
+  gradleVersion = '2.13'
+}

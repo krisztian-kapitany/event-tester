@@ -1,0 +1,9 @@
+.classpath
+.gradle
+.project
+.settings
+/build
+.idea/
+*.iml
+.sonar/
+*.camelLock
