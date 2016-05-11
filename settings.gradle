@@ -1,0 +1,5 @@
+rootProject.name = 'services-product-importer-service'
+
+include 'service'
+include 'acceptance-tests'
+include 'performance-tests'
