@@ -1,5 +1,2 @@
-rootProject.name = 'services-product-importer-service'
+rootProject.name = 'gh-event-tester-service'
 
-include 'service'
-include 'acceptance-tests'
-include 'performance-tests'
