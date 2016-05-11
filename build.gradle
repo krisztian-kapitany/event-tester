@@ -24,6 +24,13 @@ gretty {
 sourceCompatibility = '1.8'
 targetCompatibility = '1.8'
 
+jar.manifest {
+    attributes(
+            'Implementation-Title': 'gh-event-tester-service',
+            'Implementation-Version': '1.0-alpha'
+    )
+}
+
 repositories {
     mavenCentral()
 }
