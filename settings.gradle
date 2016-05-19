@@ -1,2 +1,2 @@
 rootProject.name = 'gh-event-tester-service'
-
+SONAR_PROJECT_ID = com.moneysupermarket:gh-event-tester-service
